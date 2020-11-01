@@ -1,0 +1,373 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.10) (preloaded format=pdflatex 2020.10.31)  31 OCT 2020 22:33
+entering extended mode
+**./Laboratorio1_rafaelcallata.tex
+(Laboratorio1_rafaelcallata.tex
+LaTeX2e <2020-10-01> patch level 1
+L3 programming layer <2020-10-05> xparse <2020-03-03>
+(D:\PROGRAMAS\MiKTex\tex/latex/elsarticle\elsarticle.cls
+Document Class: elsarticle 2019/02/25, 3.2: Elsevier Ltd
+\@bls=\dimen138
+(D:\PROGRAMAS\MiKTex\tex/latex/base\article.cls
+Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
+(D:\PROGRAMAS\MiKTex\tex/latex/base\size12.clo
+File: size12.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
+)
+\c@part=\count175
+\c@section=\count176
+\c@subsection=\count177
+\c@subsubsection=\count178
+\c@paragraph=\count179
+\c@subparagraph=\count180
+\c@figure=\count181
+\c@table=\count182
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen139
+)
+(D:\PROGRAMAS\MiKTex\tex/latex/graphics\graphicx.sty
+Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
+
+(D:\PROGRAMAS\MiKTex\tex/latex/graphics\keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+(D:\PROGRAMAS\MiKTex\tex/latex/graphics\graphics.sty
+Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
+
+(D:\PROGRAMAS\MiKTex\tex/latex/graphics\trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(D:\PROGRAMAS\MiKTex\tex/latex/graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+(D:\PROGRAMAS\MiKTex\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen140
+\Gin@req@width=\dimen141
+)
+\c@tnote=\count183
+\c@fnote=\count184
+\c@cnote=\count185
+\c@ead=\count186
+\c@author=\count187
+\@eadauthor=\toks16
+\c@affn=\count188
+\absbox=\box47
+\elsarticlehighlightsbox=\box48
+\elsarticlegrabsbox=\box49
+\keybox=\box50
+\Columnwidth=\dimen142
+\space@left=\dimen143
+\els@boxa=\box51
+\els@boxb=\box52
+\leftMargin=\dimen144
+\@enLab=\toks17
+\@sep=\skip49
+\@@sep=\skip50
+
+(Laboratorio1_rafaelcallata.spl)
+(D:\PROGRAMAS\MiKTex\tex/latex/natbib\natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip51
+\bibsep=\skip52
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count189
+)
+\splwrite=\write3
+\openout3 = `Laboratorio1_rafaelcallata.spl'.
+
+\appnamewidth=\dimen145
+)
+(D:\PROGRAMAS\MiKTex\tex/generic/babel\babel.sty
+Package: babel 2020/10/06 3.50 The Babel package
+
+(D:\PROGRAMAS\MiKTex\tex/generic/babel\babel.def
+File: babel.def 2020/10/06 3.50 Babel common definitions
+\babel@savecnt=\count190
+\U@D=\dimen146
+\l@babelnohyphens=\language79
+
+(D:\PROGRAMAS\MiKTex\tex/generic/babel\txtbabel.def)
+\bbl@readstream=\read2
+)
+\bbl@dirlevel=\count191
+
+*************************************
+* Local config file bblopts.cfg used
+*
+(D:\PROGRAMAS\MiKTex\tex/latex/arabi\bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+(D:\PROGRAMAS\MiKTex\tex/latex/babel-spanish\spanish.ldf
+Language: spanish.ldf 2016/03/03 v5.0p Spanish support from the babel system
+\es@quottoks=\toks18
+\es@quotdepth=\count192
+Package babel Info: Making " an active character on input line 561.
+Package babel Info: Making . an active character on input line 662.
+Package babel Info: Making < an active character on input line 707.
+Package babel Info: Making > an active character on input line 707.
+))
+(D:\PROGRAMAS\MiKTex\tex/latex/amsfonts\amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(D:\PROGRAMAS\MiKTex\tex/latex/amsfonts\amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks19
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(D:\PROGRAMAS\MiKTex\tex/latex/lineno\lineno.sty
+Package: lineno 2005/11/02 line numbers on paragraphs v4.41
+\linenopenalty=\count193
+\output=\toks20
+\linenoprevgraf=\count194
+\linenumbersep=\dimen147
+\linenumberwidth=\dimen148
+\c@linenumber=\count195
+\c@pagewiselinenumber=\count196
+\c@LN@truepage=\count197
+\c@internallinenumber=\count198
+\c@internallinenumbers=\count199
+\quotelinenumbersep=\dimen149
+\bframerule=\dimen150
+\bframesep=\dimen151
+\bframebox=\box53
+LaTeX Info: Redefining \\ on input line 3056.
+)
+(D:\PROGRAMAS\MiKTex\tex/latex/abstract\abstract.sty
+Package: abstract 2009/06/08 v1.2a configurable abstracts
+\abstitleskip=\skip53
+\absleftindent=\skip54
+\absrightindent=\skip55
+\absparindent=\skip56
+\absparsep=\skip57
+)
+(D:\PROGRAMAS\MiKTex\tex/latex/base\inputenc.sty
+Package: inputenc 2020/08/01 v1.3d Input encoding file
+\inpenc@prehook=\toks21
+\inpenc@posthook=\toks22
+)
+(D:\PROGRAMAS\MiKTex\tex/latex/url\url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+(D:\PROGRAMAS\MiKTex\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2020-09-24 L3 backend support: PDF output (pdfTeX)
+\l__kernel_color_stack_int=\count266
+\l__pdf_internal_box=\box54
+)
+(Laboratorio1_rafaelcallata.aux
+LaTeX Info: Redefining \. on input line 8.
+LaTeX Info: Redefining \% on input line 8.
+)
+\openout1 = `Laboratorio1_rafaelcallata.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+
+(D:\PROGRAMAS\MiKTex\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count267
+\scratchdimen=\dimen152
+\scratchbox=\box55
+\nofMPsegments=\count268
+\nofMParguments=\count269
+\everyMPshowfont=\toks23
+\MPscratchCnt=\count270
+\MPscratchDim=\dimen153
+\MPnumerator=\count271
+\makeMPintoPDFobject=\count272
+\everyMPtoPDFconversion=\toks24
+) (D:\PROGRAMAS\MiKTex\tex/latex/epstopdf-pkg\epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+)
+LaTeX Info: Redefining \. on input line 17.
+LaTeX Info: Redefining \% on input line 17.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 28.
+
+
+(D:\PROGRAMAS\MiKTex\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 28.
+
+
+(D:\PROGRAMAS\MiKTex\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+Overfull \hbox (2.61108pt too wide) has occurred while \output is active
+[] 
+ []
+
+[1
+
+
+{C:/Users/Usuario/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
+<./imagen/descargasonarqube.png, id=12, 442.65375pt x 134.00063pt>
+File: ./imagen/descargasonarqube.png Graphic file (type png)
+<use ./imagen/descargasonarqube.png>
+Package pdftex.def Info: ./imagen/descargasonarqube.png  used on input line 60.
+
+(pdftex.def)             Requested size: 426.79134pt x 129.20549pt.
+
+Overfull \hbox (66.16603pt too wide) in paragraph at lines 60--61
+ [][] 
+ []
+
+<./imagen/instanciasonarqube.png, id=14, 420.82219pt x 41.4047pt>
+File: ./imagen/instanciasonarqube.png Graphic file (type png)
+<use ./imagen/instanciasonarqube.png>
+Package pdftex.def Info: ./imagen/instanciasonarqube.png  used on input line 67
+.
+(pdftex.def)             Requested size: 426.79134pt x 41.99275pt.
+
+Overfull \hbox (66.16603pt too wide) in paragraph at lines 67--68
+ [][] 
+ []
+
+<./imagen/urlportal.png, id=15, 304.13625pt x 110.66344pt>
+File: ./imagen/urlportal.png Graphic file (type png)
+<use ./imagen/urlportal.png>
+Package pdftex.def Info: ./imagen/urlportal.png  used on input line 73.
+(pdftex.def)             Requested size: 227.62204pt x 82.82512pt.
+<./imagen/ingresoregistro.png, id=16, 280.04625pt x 106.14656pt>
+File: ./imagen/ingresoregistro.png Graphic file (type png)
+<use ./imagen/ingresoregistro.png>
+Package pdftex.def Info: ./imagen/ingresoregistro.png  used on input line 77.
+(pdftex.def)             Requested size: 256.0748pt x 97.06483pt.
+[2 <./imagen/descargasonarqube.png> <./imagen/instanciasonarqube.png> <./imagen
+/urlportal.png>]
+<./imagen/logearportal.png, id=23, 259.7203pt x 168.63pt>
+File: ./imagen/logearportal.png Graphic file (type png)
+<use ./imagen/logearportal.png>
+Package pdftex.def Info: ./imagen/logearportal.png  used on input line 82.
+(pdftex.def)             Requested size: 284.52756pt x 184.73708pt.
+<./imagen/crearproyecto.png, id=24, 307.1475pt x 242.40562pt>
+File: ./imagen/crearproyecto.png Graphic file (type png)
+<use ./imagen/crearproyecto.png>
+Package pdftex.def Info: ./imagen/crearproyecto.png  used on input line 87.
+(pdftex.def)             Requested size: 227.62204pt x 179.64365pt.
+ [3 <./imagen/ingresoregistro.png> <./imagen/logearportal.png> <./imagen/crearp
+royecto.png>]
+<./imagen/generartoken.png, id=31, 435.12563pt x 251.43938pt>
+File: ./imagen/generartoken.png Graphic file (type png)
+<use ./imagen/generartoken.png>
+Package pdftex.def Info: ./imagen/generartoken.png  used on input line 93.
+(pdftex.def)             Requested size: 227.62204pt x 131.53574pt.
+<./imagen/tokengenerado.png, id=32, 435.12563pt x 255.20343pt>
+File: ./imagen/tokengenerado.png Graphic file (type png)
+<use ./imagen/tokengenerado.png>
+Package pdftex.def Info: ./imagen/tokengenerado.png  used on input line 97.
+(pdftex.def)             Requested size: 227.62204pt x 133.50482pt.
+<./imagen/ejecutable.png, id=33, 1015.54407pt x 511.9125pt>
+File: ./imagen/ejecutable.png Graphic file (type png)
+<use ./imagen/ejecutable.png>
+Package pdftex.def Info: ./imagen/ejecutable.png  used on input line 105.
+(pdftex.def)             Requested size: 199.16928pt x 100.39665pt.
+<./imagen/ejecutarNetCore.png, id=34, 330.48468pt x 252.945pt>
+File: ./imagen/ejecutarNetCore.png Graphic file (type png)
+<use ./imagen/ejecutarNetCore.png>
+Package pdftex.def Info: ./imagen/ejecutarNetCore.png  used on input line 109.
+(pdftex.def)             Requested size: 227.62204pt x 174.22346pt.
+ [4 <./imagen/generartoken.png> <./imagen/tokengenerado.png> <./imagen/ejecutab
+le.png>]
+<./imagen/instalarNetCore.png, id=41, 484.81125pt x 362.85562pt>
+File: ./imagen/instalarNetCore.png Graphic file (type png)
+<use ./imagen/instalarNetCore.png>
+Package pdftex.def Info: ./imagen/instalarNetCore.png  used on input line 113.
+(pdftex.def)             Requested size: 227.62204pt x 170.36499pt.
+<./imagen/sonarscanner.png, id=42, 632.3625pt x 145.29282pt>
+File: ./imagen/sonarscanner.png Graphic file (type png)
+<use ./imagen/sonarscanner.png>
+Package pdftex.def Info: ./imagen/sonarscanner.png  used on input line 120.
+(pdftex.def)             Requested size: 284.52756pt x 65.3745pt.
+ [5 <./imagen/ejecutarNetCore.png> <./imagen/instalarNetCore.png> <./imagen/son
+arscanner.png>]
+<./imagen/ruta1.png, id=49, 465.99094pt x 91.84312pt>
+File: ./imagen/ruta1.png Graphic file (type png)
+<use ./imagen/ruta1.png>
+Package pdftex.def Info: ./imagen/ruta1.png  used on input line 129.
+(pdftex.def)             Requested size: 284.52756pt x 56.08026pt.
+<./imagen/ruta2.png, id=50, 243.15843pt x 30.1125pt>
+File: ./imagen/ruta2.png Graphic file (type png)
+<use ./imagen/ruta2.png>
+Package pdftex.def Info: ./imagen/ruta2.png  used on input line 134.
+(pdftex.def)             Requested size: 199.16928pt x 24.66483pt.
+<./imagen/ruta3.png, id=51, 502.87875pt x 153.57375pt>
+File: ./imagen/ruta3.png Graphic file (type png)
+<use ./imagen/ruta3.png>
+Package pdftex.def Info: ./imagen/ruta3.png  used on input line 139.
+(pdftex.def)             Requested size: 312.9803pt x 95.58029pt.
+<./imagen/ruta4.png, id=52, 552.56438pt x 37.64063pt>
+File: ./imagen/ruta4.png Graphic file (type png)
+<use ./imagen/ruta4.png>
+Package pdftex.def Info: ./imagen/ruta4.png  used on input line 144.
+(pdftex.def)             Requested size: 312.9803pt x 21.31982pt.
+<./imagen/iniciarsesion.png, id=53, 631.60968pt x 83.5622pt>
+File: ./imagen/iniciarsesion.png Graphic file (type png)
+<use ./imagen/iniciarsesion.png>
+Package pdftex.def Info: ./imagen/iniciarsesion.png  used on input line 152.
+(pdftex.def)             Requested size: 256.0748pt x 33.87947pt.
+<./imagen/build.png, id=54, 587.94656pt x 156.585pt>
+File: ./imagen/build.png Graphic file (type png)
+<use ./imagen/build.png>
+Package pdftex.def Info: ./imagen/build.png  used on input line 159.
+(pdftex.def)             Requested size: 284.52756pt x 75.77637pt.
+ [6 <./imagen/ruta1.png> <./imagen/ruta2.png> <./imagen/ruta3.png> <./imagen/ru
+ta4.png> <./imagen/iniciarsesion.png>]
+<./imagen/cerrarsesion.png, id=63, 606.76688pt x 46.67438pt>
+File: ./imagen/cerrarsesion.png Graphic file (type png)
+<use ./imagen/cerrarsesion.png>
+Package pdftex.def Info: ./imagen/cerrarsesion.png  used on input line 166.
+(pdftex.def)             Requested size: 284.52756pt x 21.88708pt.
+<./imagen/resultado.jpeg, id=64, 1086.0575pt x 625.33624pt>
+File: ./imagen/resultado.jpeg Graphic file (type jpg)
+<use ./imagen/resultado.jpeg>
+Package pdftex.def Info: ./imagen/resultado.jpeg  used on input line 171.
+(pdftex.def)             Requested size: 284.52756pt x 163.82402pt.
+ [7 <./imagen/build.png> <./imagen/cerrarsesion.png> <./imagen/resultado.jpeg>]
+ [8] (Laboratorio1_rafaelcallata.aux
+LaTeX Info: Redefining \. on input line 8.
+LaTeX Info: Redefining \% on input line 8.
+) ) 
+Here is how much of TeX's memory you used:
+ 3995 strings out of 480257
+ 55337 string characters out of 2893156
+ 335387 words of memory out of 3000000
+ 20479 multiletter control sequences out of 15000+200000
+ 542031 words of font info for 54 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 72i,5n,77p,511b,361s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\Usuario\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\t
+crm2488.pk><D:/PROGRAMAS/MiKTex/fonts/type1/public/amsfonts/cm/cmbx12.pfb><D:/P
+ROGRAMAS/MiKTex/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><D:/PROGRAMAS/MiKTe
+x/fonts/type1/public/amsfonts/cm/cmr12.pfb><D:/PROGRAMAS/MiKTex/fonts/type1/pub
+lic/amsfonts/cm/cmr17.pfb><D:/PROGRAMAS/MiKTex/fonts/type1/public/amsfonts/cm/c
+mti10.pfb><D:/PROGRAMAS/MiKTex/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on Laboratorio1_rafaelcallata.pdf (8 pages, 381319 bytes).
+PDF statistics:
+ 98 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 101 words of extra memory for PDF output out of 10000 (max. 10000000)
+
